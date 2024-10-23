@@ -1,7 +1,10 @@
 import configparser
+import os
 
 cfg = configparser.ConfigParser()
-cfg.read("database_config.txt", encoding="ansi")
+config_path = os.path.join(os.path.dirname(__file__), 'database_config.ini')
+
+cfg.read(config_path, encoding="ansi")
 
 # DATABASE
 DRIVER = cfg["DATABASE"]["DRIVER"]

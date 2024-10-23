@@ -1,6 +1,5 @@
 import pyodbc
-import constants as const
-
+from config import constants as const
 class DBConnection:
     def __init__(self):
         self.conn = None
