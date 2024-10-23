@@ -3,6 +3,34 @@
 
 Este proyecto está diseñado para establecer una conexión con una base de datos utilizando el driver ODBC de iSeries Access, y realizar consultas a través de una conexión ODBC.
 
+## Desarrollo
+
+* VSCode
+* Python 3.12.3
+
+### Ejecución
+
+Clone el repositorio
+
+> ```
+> https://github.com/robinson-arpi/db2-python-setup.git
+> ```
+
+Situese en la carpeta del proyecto e instale el requirements.txt
+
+> Instale requirements.txt
+>
+> ```python
+> pip install -r requirements.txt
+> ```
+
+> Ejecute la aplicación
+>
+> ```python
+> test_connection.py
+> ```
+>
+
 ## Estructura del Proyecto
 
 ```
@@ -19,6 +47,7 @@ Este proyecto está diseñado para establecer una conexión con una base de dato
 └── __init__.py
 └── .gitignore
 └── readme.md
+└── requirements.txt
 └── test_connection.py
 ```
 
@@ -84,3 +113,21 @@ Si necesitas más información sobre la configuración del driver ODBC para iSer
 ---
 
 ¡Gracias por usar este proyecto! Si tienes algún problema o sugerencia, no dudes en abrir un issue o contribuir al proyecto.
+
+<!-- Contact Information -->
+
+
+<div align="center">
+  <h3>Robinson Arpi</h3>
+  <p>Computer Science Engineer | Full Stack Developer | Data Analyst</p>
+  <h3>Contact Me</h3>
+  <a href="https://www.linkedin.com/in/robinson-arpi-ayala-b258821b0">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/593998320642" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:robinson.arpi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail" />
+  </a>
+</div>
