@@ -121,7 +121,7 @@ Si necesitas más información sobre la configuración del driver ODBC para iSer
   <h3>Robinson Arpi</h3>
   <p>Computer Science Engineer | Full Stack Developer | Data Analyst</p>
   <h3>Contact Me</h3>
-  <a href="https://www.linkedin.com/in/robinson-arpi-ayala-b258821b0">
+  <a href="https://www.linkedin.com/in/robinson-arpi">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://wa.me/593998320642" target="_blank">
